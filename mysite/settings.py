@@ -9,10 +9,7 @@ https://docs.djangoproject.com/en/1.11/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/1.11/ref/settings/
 """
-<<<<<<< HEAD
-=======
 
->>>>>>> 030fe1c628f3eee07a7f3694e4cd3e24ea057bcd
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -23,16 +20,16 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-<<<<<<< HEAD
+
 SECRET_KEY = 'hr*0!07nk4oddz^*368f7)25lg-j1jfdcixm940iczcccnga3g'
-=======
+
 SECRET_KEY = 'b$&t&u*cxhn2zuhq-*f%%@m%v*t46r$1=%wort3u!l@@wlm!ee'
->>>>>>> 030fe1c628f3eee07a7f3694e4cd3e24ea057bcd
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'snord.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'smpn.pythonanywhere.com']
 
 
 # Application definition
