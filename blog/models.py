@@ -17,8 +17,5 @@ class Post(models.Model):
 
     def __str__(self):
         return self.title
-<<<<<<< HEAD
-=======
 
-# Create your models here.
->>>>>>> 030fe1c628f3eee07a7f3694e4cd3e24ea057bcd
+
